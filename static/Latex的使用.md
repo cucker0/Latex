@@ -18,3 +18,5 @@ Latex的使用
     
 * 在线生成图表
     >https://www.tablesgenerator.com/#
+* 简单画图
+    >https://yuml.me/diagram/scruffy/class/samples
